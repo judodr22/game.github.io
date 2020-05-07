@@ -4,6 +4,7 @@ You can use the [editor on GitHub](https://github.com/judodr22/victorygame.githu
 
 
 [Link](https://play.google.com/store/apps) and ![Image](https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png)
+
 [Privacy Policy](https://jekyllrb.com/)
 
 ### Markdown
