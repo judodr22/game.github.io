@@ -26,15 +26,12 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
+
+
 [Link](https://play.google.com/store/apps) and ![Image](https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png)
+
+
 ```
+<a href='https://play.google.com/store/apps/developer?id=Sonatta'><p style="text-align:center;"><img alt='Get it on Google Play' class='center' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' width="350" /></a>
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/judodr22/victorygame.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Apps? [contact support](https://github.com/contact) and we’ll help you sort it out.
